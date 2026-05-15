@@ -1,0 +1,36 @@
+.footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  clear: both;
+}
+
+.contact-info,
+.social-media-links {
+  margin: 20px;
+}
+
+.contact-info h4,
+.social-media-links h4 {
+  margin-top: 0;
+}
+
+.social-media-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-media-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.social-media-links a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.social-media-links a:hover {
+  color: #23527c;
+}
